@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿class TriangleSides
+{
+    static void Main(string[] args)
+    {
+
+    }
+    // end of main method
+}
+// end of class
