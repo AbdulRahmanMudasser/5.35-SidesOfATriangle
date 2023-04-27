@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sides of a Triangle", "Sides of a Triangle\Sides of a Triangle.csproj", "{827CD396-5B68-49E0-8C43-D3A78B78C7FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{827CD396-5B68-49E0-8C43-D3A78B78C7FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827CD396-5B68-49E0-8C43-D3A78B78C7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827CD396-5B68-49E0-8C43-D3A78B78C7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827CD396-5B68-49E0-8C43-D3A78B78C7FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C593385F-E7F4-4250-85A4-E9AD6C8D64E0}
+	EndGlobalSection
+EndGlobal
