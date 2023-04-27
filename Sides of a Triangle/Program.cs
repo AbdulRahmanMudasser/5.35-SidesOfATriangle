@@ -14,6 +14,8 @@
         Console.Write("Enter The Third Side: ");
         double side3 = Convert.ToDouble(Console.ReadLine());
 
+        Console.WriteLine();    // just for spacing
+
         // check if the three sides form a valid triangle
         bool validTriangle = ((side1 + side2 > side3) && (side1 + side3 > side2) && (side2 + side3 > side1));
 
